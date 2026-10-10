@@ -1,0 +1,101 @@
+Expense_ID,Date,Description,Category,Amount,Payment_Mode
+1,2026-01-04,Bus,Transport,36.75,UPI
+2,2026-01-04,Books,Shopping,428.43,Cash
+3,2026-01-05,Bus,Transport,45.34,Cash
+4,2026-01-11,Health Checkup,Health,681.42,Debit Card
+5,2026-01-17,Breakfast,Food,73.25,UPI
+6,2026-01-19,Study Material,Education,609.45,Credit Card
+7,2026-01-20,Fuel,Transport,784.3,Debit Card
+8,2026-01-26,Mobile Recharge,Bills,295.09,Credit Card
+9,2026-02-01,Course,Education,1297.56,Credit Card
+10,2026-02-05,Electricity Bill,Bills,1122.6,Credit Card
+11,2026-02-07,Electricity Bill,Bills,1067.68,Debit Card
+12,2026-02-09,Gaming,Entertainment,465.76,Debit Card
+13,2026-02-10,Cab,Transport,273.7,Cash
+14,2026-02-11,Dental,Health,1130.41,Cash
+15,2026-02-11,Shoes,Shopping,1654.88,Cash
+16,2026-02-17,Dental,Health,863.23,Debit Card
+17,2026-02-17,Internet Bill,Bills,679.38,Credit Card
+18,2026-02-20,Cafe,Food,192.32,UPI
+19,2026-02-23,Accessories,Shopping,442.31,UPI
+20,2026-02-24,Doctor Visit,Health,631.94,Credit Card
+21,2026-02-27,Exam Fee,Education,460.92,Cash
+22,2026-02-27,Groceries,Food,466.25,Cash
+23,2026-02-28,Concert,Entertainment,1060.16,Credit Card
+24,2026-03-07,Miscellaneous,Other,224.88,Credit Card
+25,2026-03-07,Dinner,Food,239.85,UPI
+26,2026-03-08,Gaming,Entertainment,536.18,Credit Card
+27,2026-03-13,Fuel,Transport,700.87,Credit Card
+28,2026-03-15,Gaming,Entertainment,461.99,Debit Card
+29,2026-03-20,Books,Shopping,463.02,Credit Card
+30,2026-03-21,Electricity Bill,Bills,1098.37,UPI
+31,2026-03-21,Concert,Entertainment,1237.74,Debit Card
+32,2026-03-22,Gift,Other,795.3,Debit Card
+33,2026-03-29,Internet Bill,Bills,691.09,Debit Card
+34,2026-04-06,Fuel,Transport,696.31,Cash
+35,2026-04-12,Doctor Visit,Health,689.33,Debit Card
+36,2026-04-15,Cafe with Friends,Entertainment,348.8,UPI
+37,2026-04-19,Electricity Bill,Bills,1163.64,Debit Card
+38,2026-04-19,Donation,Other,557.7,Credit Card
+39,2026-04-20,Medicine,Health,314.79,UPI
+40,2026-04-20,Cab,Transport,243.07,Credit Card
+41,2026-04-20,Online Shopping,Shopping,920.58,Cash
+42,2026-04-21,Course,Education,1316.74,UPI
+43,2026-04-23,Course,Education,1378.07,UPI
+44,2026-05-06,Miscellaneous,Other,276.23,UPI
+45,2026-05-08,Internet Bill,Bills,706.61,Cash
+46,2026-05-11,Groceries,Food,490.41,Cash
+47,2026-05-14,Online Shopping,Shopping,1024.88,Debit Card
+48,2026-05-22,Miscellaneous,Other,230.44,Credit Card
+49,2026-05-23,Miscellaneous,Other,275.06,Cash
+50,2026-05-26,Course,Education,1643.29,Cash
+51,2026-05-29,Auto,Transport,133.19,Credit Card
+52,2026-06-02,Health Checkup,Health,809.17,Cash
+53,2026-06-04,Groceries,Food,547.57,Debit Card
+54,2026-06-08,Internet Bill,Bills,625.05,UPI
+55,2026-06-10,Electricity Bill,Bills,1162.48,Debit Card
+56,2026-06-10,Metro,Transport,60.13,Credit Card
+57,2026-06-11,Dental,Health,869.86,Debit Card
+58,2026-06-14,Donation,Other,491.32,Cash
+59,2026-06-17,Dental,Health,1016.32,Cash
+60,2026-06-19,Fuel,Transport,737.12,Credit Card
+61,2026-06-23,Snacks,Food,71.13,Cash
+62,2026-06-29,Dental,Health,1131.77,UPI
+63,2026-06-29,Gaming,Entertainment,458.44,Cash
+64,2026-07-01,Health Checkup,Health,792.09,UPI
+65,2026-07-03,Study Material,Education,557.61,UPI
+66,2026-07-03,Internet Bill,Bills,734.01,Debit Card
+67,2026-07-05,Mobile Recharge,Bills,258.26,Cash
+68,2026-07-06,Medicine,Health,397.13,Debit Card
+69,2026-07-09,Stationery,Education,315.32,UPI
+70,2026-07-15,Cafe,Food,165.01,Credit Card
+71,2026-07-15,Miscellaneous,Other,231.36,UPI
+72,2026-07-19,Streaming,Entertainment,279.74,Credit Card
+73,2026-07-19,Printing,Education,160.09,Credit Card
+74,2026-07-24,Exam Fee,Education,554.65,Debit Card
+75,2026-07-26,Fuel,Transport,739.09,UPI
+76,2026-07-27,Dinner,Food,234.02,Credit Card
+77,2026-07-28,Shoes,Shopping,1996.89,Cash
+78,2026-07-30,Electricity Bill,Bills,1077.31,UPI
+79,2026-07-31,Lunch,Food,160.65,Debit Card
+80,2026-08-01,Lunch,Food,164.98,Credit Card
+81,2026-08-04,Doctor Visit,Health,724.26,Debit Card
+82,2026-08-05,Accessories,Shopping,494.39,UPI
+83,2026-08-08,Dental,Health,915.8,Cash
+84,2026-08-12,Cab,Transport,279.96,Cash
+85,2026-08-13,Gift,Other,647.06,UPI
+86,2026-08-15,Bus,Transport,41.83,UPI
+87,2026-08-17,Books,Shopping,443.26,Cash
+88,2026-08-22,Doctor Visit,Health,745.85,Credit Card
+89,2026-08-23,Course,Education,1279.19,UPI
+90,2026-08-24,Cab,Transport,218.41,Debit Card
+91,2026-08-31,Doctor Visit,Health,614.81,Credit Card
+92,2026-09-07,Electricity Bill,Bills,1176.9,UPI
+93,2026-09-11,Doctor Visit,Health,625.99,UPI
+94,2026-09-14,Online Shopping,Shopping,1011.41,Debit Card
+95,2026-09-15,Clothes,Shopping,1365.88,UPI
+96,2026-09-17,Internet Bill,Bills,672.56,Cash
+97,2026-09-18,Gift,Other,753.71,UPI
+98,2026-09-19,Miscellaneous,Other,225.23,UPI
+99,2026-09-29,Snacks,Food,66.31,UPI
+100,2026-09-29,Printing,Education,155.07,Credit Card
